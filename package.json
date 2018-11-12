@@ -1,0 +1,20 @@
+{
+  "name": "docker-hellonode",
+  "version": "0.0.1",
+  "description": "A simple Hello World HTTP server",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: There are no tests specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RonaldBluemix/IBMDockerDemo"
+  },
+  "keywords": [
+    "node",
+    "docker",
+    "docker for Mac"
+  ],
+  "author": "meijerr@nl.ibm.com"
+}
